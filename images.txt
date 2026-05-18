@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-xakra/s3browser:0.2.1
+quay.io/ceph/ceph:v18.2.8
