@@ -5,4 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-quay.io/ceph/ceph:v18.2.8
+langgenius/dify-plugin-daemon:0.0.6
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-api:1.13.0
+langgenius/dify-web:1.13.0
